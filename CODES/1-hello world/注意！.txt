@@ -1,0 +1,22 @@
+在 Cygwin 里访问 Windows 盘符，要用 /cygdrive/盘符/路径 的格式。
+
+进入保存目录
+
+在 Cygwin 终端里输入：
+
+cd "/cygdrive/d/Sublime Text/CODES/1-hello world"
+
+
+注意：因为路径里有空格，所以要加引号 ""。
+
+
+🔹 编译
+g++ hello.cpp -o hello
+
+🔹 运行
+./hello
+
+
+应该会输出：
+
+Hello, Cygwin!
