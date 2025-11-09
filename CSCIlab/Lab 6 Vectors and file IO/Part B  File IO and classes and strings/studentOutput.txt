@@ -1,0 +1,7 @@
+Average GPA: 2.96667
+Students with GPA above average: 
+Anisha Agarwal
+Andrew Chang
+Elena Rodriguez
+Tonisha Jones
+Sunil Anand
